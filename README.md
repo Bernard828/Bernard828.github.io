@@ -1,1 +1,0 @@
-# Bernard828.github.io
