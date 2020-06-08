@@ -6,7 +6,7 @@
     padding: 0;
 }
 body{
-    color: royalblue;
+    color: black;
 }
 html{
     font-size: 2rem ;
@@ -19,11 +19,20 @@ main,
 footer{
     margin: 0 auto;
     max-width: 800px;
-
 }
 
+img{
+    height: 100px;
+    max-width: 100px;
+}
 header{
-    padding: 2em auto;
+    padding: 2em 0;
+}
+header h1{
+    font-size: 2em;
+}
+header span{
+    font-size: 1.5;
 }
 
 nav{
@@ -45,7 +54,7 @@ nav a {
     color:grey;
 }
 nav a:hover{
-background: purple;
+background: lightgoldenrodyellow;
 }
 section{
     margin: 1em 0;
