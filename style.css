@@ -84,11 +84,11 @@ section ul {
     align-items: center;
 }
 
-#avatar{
+#profile{
     max-height: 70px;
     max-width: 80px;
 }
-#projects{
+#assemblies{
     display: grid;
     grid-template-rows: repeat(1, 3fr);
 
@@ -111,100 +111,5 @@ footer {
     background: #666;
     color: #fff;
     padding:1em 0:
-    text-align: center;
+    text-align: center
 }
-
-/* *{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    line-height: 1.5em;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-.contactLink{
-    display: grid;
-    grid-template-columns: repeat(2 1fr);
-    padding: 5%;
-
-    justify-content: space-between;
-
-    border-style: solid;
-    list-style: none;
-} */
-/* body{
-    color: black;
-} */
-/* main{
-    background-image: image();
-}
-html{
-    font-size: 2rem ;
-}
-h1, h2, h3{
-    color: black;
-}
-header,
-main,
-footer{
-    margin: 0 auto;
-    max-width: 800px;
-}
-
-img{
-    height: 100px;
-    max-width: 100px;
-}
-header{
-    padding: 2em 0;
-}
-header h1{
-    font-size: 2em;
-}
-header span{
-    font-size: 1.5;
-}
-footer p{
-    display: flex;
-    justify-content: center;
-}
-.footContact{
-    position: fixed;
-    bottom: 1em;
-}
-nav{
-    position: fixed;
-    bottom:0;
-    right:0;
-    width: 100%;
-
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-
-    background: #333;
-}
-
-nav a {
-    padding: .5em 2em;
-    text-decoration: none;
-    color:grey;
-    text-align: center;
-}
-nav a:hover{
-background: lightgoldenrodyellow;
-}
-section{
-    margin: 1em 0;
-
-    padding-top: 0em;
-    min-height: 20em;
-
-}
-
-footer{
-    margin-top: 2em;
-    margin-bottom: 1em;
-    background: #666;
-    color: #fff;
-    padding: 1em 0;
-} */
