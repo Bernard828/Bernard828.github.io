@@ -5,7 +5,9 @@
     margin: 0;
     padding: 0;
 }
-
+div{
+    margin: .5%;
+}
 html{
     font-size: 16px;
 
@@ -30,6 +32,8 @@ header{
 
 header h1{
     font-size: 3em;
+    padding: 5%;
+    margin-left: 20%;
 }
 
 header span{
@@ -60,6 +64,7 @@ nav a:hover{
     background: #666;
 }
 
+#aboutMe
 section {
     margin: 1em 0;
 
